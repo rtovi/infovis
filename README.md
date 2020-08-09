@@ -1,1 +1,3 @@
-# infovis
+# INFOVIS
+
+#Information & Data Visualization
