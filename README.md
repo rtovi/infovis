@@ -1,3 +1,3 @@
 # INFOVIS
 
-#Information & Data Visualization
+Information & Data Visualization
